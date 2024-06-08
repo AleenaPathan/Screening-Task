@@ -1,0 +1,11 @@
+{
+  "name": "dark-mode-toggle-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "lit-element": "^2.3.1"
+  },
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "lit-element serve"
+  }
+}
